@@ -1,6 +1,6 @@
 # Classificador de Tráfego de Rede com MLP
 
-Uma pesquisa acadêmica de IA aplicada para Cibersegurança para a detecção de intrusão em redes de computadores, utilizando um modelo de Deep Learning para classificar tráfego benigno e múltiplas classes de ataques.
+Pesquisa acadêmica de IA aplicada para Cibersegurança para a detecção de intrusão em redes de computadores, utilizando um modelo de Deep Learning para classificar tráfego benigno e múltiplas classes de ataques.
 
 ## 📋 Tabela de Conteúdos
 1.  [Visão Geral do Projeto](#-visão-geral-do-projeto)
