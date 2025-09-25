@@ -1,0 +1,9 @@
+*.csv
+*.npy
+*.npz
+*.parquet
+*.png
+*.jpg
+*.pyc
+
+__pycache__/
